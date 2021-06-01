@@ -1,0 +1,21 @@
+  .body{
+    background-image: linear-gradient(#FFFFFC, #FFF9B2);
+  }
+  .layout {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .layout__primary {
+    flex: 1 1 200px;
+    padding: 20px;
+  }
+  
+  .layout__secondary {
+    flex: 1 1 600px;
+    padding: 20px;
+  }
+  .body-bottom {
+      border-bottom: 2px solid #EC3237;
+  }
+  
