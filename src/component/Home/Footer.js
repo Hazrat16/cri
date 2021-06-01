@@ -1,4 +1,4 @@
-import { faCoffee, faGlobe, faPhone, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
+import {faGlobe, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 
